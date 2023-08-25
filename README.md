@@ -1,2 +1,2 @@
-# BOSTON_HOUSE_PRICE_PREDICTION
-BOSTON HOUSE PRICE PREDICTION
+# Boston-House-Price-Prediction
+Linear Regression on Boston Housing Dataset
